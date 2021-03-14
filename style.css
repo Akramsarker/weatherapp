@@ -1,0 +1,35 @@
+body {
+    background: url('../image/weather1.jpeg') no-repeat center center/cover;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 4rem;
+    text-transform: capitalize;
+    text-shadow: #6d6d67 2px 2px 0px, #9C9C9C 4px 4px 0px;
+}
+
+h3 {
+    font-size: 3rem;
+    text-transform: capitalize;
+    color: #202c2d;
+    text-shadow: 0 1px #808d93, -1px 0 #cdd2d5, -1px 2px #808d93, -2px 1px #cdd2d5, -2px 3px #808d93, -3px 2px #cdd2d5, -3px 4px #808d93, -4px 3px #cdd2d5, -4px 5px #808d93, -5px 4px #cdd2d5, -5px 6px #808d93, -6px 5px #cdd2d5, -6px 7px #808d93, -7px 6px #cdd2d5, -7px 8px #808d93, -8px 7px #cdd2d5;
+}
+
+#w-icon {
+    width: 70px;
+}
+
+h4 {
+    font-size: 4rem;
+    text-shadow: 2px 2px 0 #a19696, 4px 4px 0 #9c9c9c;
+}
+
+.col-md-6 {
+    background: #3F577D !important;
+    border-radius: 50px !important;
+}
+
+.list-group-item {
+    font-size: 1.3rem;
+}
